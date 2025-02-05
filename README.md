@@ -2,7 +2,7 @@
 
 I'm a machine learning engineer with experience developing and deploying models for a variety of applications at web scale. I specialize in revenue optimization, user engagement, and personalization.
 
-I love to travel and have lived nomadically for the past year and a half. I currently live in Seattle.
+I love to travel and have lived nomadically for the past two years. I currently live in Seattle.
 
 See my [website](https://josh.ws) for contact info. 
 
